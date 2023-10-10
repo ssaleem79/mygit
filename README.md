@@ -1,4 +1,4 @@
-<h1>Hi, I'm Saleem! <br><a href="https://www.linkedin.com/in/saleemshaikh1/">IT Operations Professional</a>
+<h1>Hi, I'm Saleem! <br/><a href="https://www.linkedin.com/in/saleemshaikh1/">IT Operations Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
